@@ -97,4 +97,4 @@ That's it for exercise 1! Automation Center will now be your hyperautomation das
 
 ### ***You can now add Automation Center to your Hyperautomation toolbox.***
 
-[Next exercise](https://shaoservicenow.github.io/hyperautomation/Exercise%202.html){: .btn .btn-purple }
+[Next exercise](https://servicenowsaurabh.github.io/fpa/Exercise%202.html){: .btn .btn-purple }

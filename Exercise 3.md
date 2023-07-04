@@ -346,5 +346,5 @@ Now that we have the **Registry verified** field to indicate whether a record ha
 
 Great job on making it to this point. In this exercise, we used a custom integration through Integration Hub to verify the business license. So far, we have successfully managed to automate the retrieval, extraction and verification of supplier business licenses without any manual intervention! What used to be a very repetitive, boring task, which took Nintech Co. hours of work each week is now an automated process that takes less than 2 mins. The Supplier Management team now has more time to focus on work that requires human creativity and personality, like Supplier Relationship Management and working with Suppliers to help meet Nintech Co. and their shared ESG goals.
 
-[Previous exercise](https://shaoservicenow.github.io/hyperautomation/Exercise%202.html){: .btn .mr-4 }
-[Next exercise](https://shaoservicenow.github.io/hyperautomation/Exercise%204.html){: .btn .btn-purple }
+[Previous exercise](https://servicenowsaurabh.github.io/fpa/Exercise%202.html){: .btn .mr-4 }
+[Next exercise](https://servicenowsaurabh.github.io/fpa/Exercise%204.html){: .btn .btn-purple }

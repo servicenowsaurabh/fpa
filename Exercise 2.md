@@ -166,5 +166,5 @@ Well done! In this exercise, you have automated the incoming supplier business l
 
 ### ***Go ahead and put Document Intelligence in the AI/ML tray of your Hyperautomation Toolbox***
 
-[Previous exercise](https://shaoservicenow.github.io/hyperautomation/Exercise%201.html){: .btn .mr-4 }
-[Next exercise](https://shaoservicenow.github.io/hyperautomation/Exercise%203.html){: .btn .btn-purple }
+[Previous exercise](https://servicenowsaurabh.github.io/fpa/Exercise%201.html){: .btn .mr-4 }
+[Next exercise](https://servicenowsaurabh.github.io/fpa/Exercise%203.html){: .btn .btn-purple }
